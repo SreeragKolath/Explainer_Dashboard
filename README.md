@@ -16,7 +16,7 @@ I have taken **California dataset** imported from **sklearn** for creating inter
 
 👉**How to install explainerdashboard:**
 
-  **!pip install explainerdashboard**
+  !pip install explainerdashboard
   
 - You can use this command in Colab or a Kaggle notebook directly. However, if using a Jupyter notebook running on a local machine, using a virtual environment might be a better choice to avoid any conflict due to the package dependencies.
 
