@@ -29,7 +29,7 @@ I have taken **California dataset** imported from **sklearn** for creating inter
 
 ## More Information:
 
-more information regarding explainerdashboard (
+Learn more about explainer dashboard [here](https://github.com/oegedijk/explainerdashboard).
 
 
 
