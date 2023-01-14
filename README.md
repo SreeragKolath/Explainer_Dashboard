@@ -27,6 +27,9 @@ I have taken **California dataset** imported from **sklearn** for creating inter
 - Split the data and train the model
 - Deploy the dashboard on a local port
 
+## More Information:
+
+more information regarding explainerdashboard (
 
 
 
